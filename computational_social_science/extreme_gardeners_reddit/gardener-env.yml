@@ -1,0 +1,10 @@
+# run: conda env create --file gardener-env.yml
+name: gardeners
+dependencies:
+- python>=3.8
+- anaconda
+- pip
+- pip:
+  # works for regular pip packages
+  - python-dateutil
+  - pmaw==2.1.3
