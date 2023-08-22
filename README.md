@@ -1,5 +1,5 @@
 # :books: Portfolio of Chaewon Yun 
-This is a collection of past projects. I categorized them according to three topics: Technological Ethics, Human-Technology Interactions, and Computational Social Science.
+This is a collection of past projects. I categorized them according to three topics: Master's thesis, Human-Technology Interactions, and Natural Language Processing.
 
 ## :book: Master's thesis: Bias in language models - Defining, measuring, and reducing bias
 In my master's thesis, I discuss bias in language model, especially in defining, measuring, and reducing bias in large language models. 
